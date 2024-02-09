@@ -25,6 +25,6 @@ public class StringReverse {
     }
 
     public String toString(){
-        return "Your text was:"+text+"\nYour reversed text is "+Reverse();
+        return Reverse();
     }
 }
