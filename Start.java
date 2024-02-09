@@ -29,6 +29,7 @@ public class Start {
         frame.add(label);
         frame.setSize(400,200);
         frame.setVisible(true);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
            
             
             
